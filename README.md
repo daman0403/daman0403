@@ -9,6 +9,16 @@
   <img src=https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif width="100"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/daman-goyal-807795216/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+  <a href="https://twitter.com/DamanGoyal5">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 <!---
 daman0403/daman0403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
