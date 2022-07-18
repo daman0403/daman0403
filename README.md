@@ -26,7 +26,7 @@
 
 
 </div>
-<div id="viewCount" align="center>
+<div id="viewCount" align="center">
     <img  align="center" src="https://komarev.com/ghpvc/?username=daman0403&style=flat-square&color=blue" alt=""/>
 </div>
 
