@@ -1,3 +1,7 @@
+<h1 align="center>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 - 👋 Hi, I’m @daman0403
 - 👀 I’m interested in SOFTWARE DEVELOMENT, DSA, CYBERSECURITY
 - 🌱 I’m currently learning ANDROID DEVELOPMENT, REVERSE ENGINEERING
@@ -21,10 +25,7 @@
 <div id="viewCount" align="center>
     <img  align="center" src="https://komarev.com/ghpvc/?username=daman0403&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 
 
