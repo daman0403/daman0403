@@ -23,10 +23,10 @@
 </div>
 <br>
 
-### :man_technologist: About Me : HEY! I am an android developer <img src=https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif width="30"> from INDIA.
+### :man_technologist: About Me : HEY! I am an software developer <img src=https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif width="30"> from INDIA.
 
-- :telescope: I’m a student learning ANDROID DEVELOPMENT and CYBER SECURITY 
-enthusiast.
+- :telescope: I’m a student learning SOFTWARE DEVELOPMENT and CYBER SECURITY 
+CONCEPTS.
 
 - :seedling: Exploring DEVOPS and REVERSE ENGINEERING.
 
