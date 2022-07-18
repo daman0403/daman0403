@@ -2,15 +2,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- 👋 Hi, I’m @daman0403
-<br>
-- 👀 I’m interested in SOFTWARE DEVELOMENT, DSA, CYBERSECURITY
-<br>
-- 🌱 I’m currently learning ANDROID DEVELOPMENT, REVERSE ENGINEERING
-<br>
-- 💞️ I’m looking to collaborate on OPENSOURCE PROJECTS
-<br>
-- 📫 How to reach me daman0403.be21@chitkara.edu.in
+
 <div id="header" align="center" >
   <img src=https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif width="100"/>
 </div>
@@ -30,6 +22,17 @@
     <img  align="center" src="https://komarev.com/ghpvc/?username=daman0403&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
+
+### :men_technologist: About Me : HEY! I am an android developer <img src=https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif width="30"> from INDIA.
+
+- :telescope: I’m a student learning ANDROID DEVELOPMENT and CYBER SECURITY 
+enthusiast.
+
+- :seedling: Exploring DEVOPS and REVERSE ENGINEERING.
+
+- :zap: In my free time, I solve problems on CODEFORCES and read  articles about new technologies.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daman-goyal-807795216/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
