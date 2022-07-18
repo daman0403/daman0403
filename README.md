@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daman0403
-- 👀 I’m interested in SOFTWARE DEVELOMENT, DSA
-- 🌱 I’m currently learning ANDROID DEVELOPMENT
+- 👀 I’m interested in SOFTWARE DEVELOMENT, DSA, CYBERSECURITY
+- 🌱 I’m currently learning ANDROID DEVELOPMENT, REVERSE ENGINEERING
 - 💞️ I’m looking to collaborate on OPENSOURCE PROJECTS
 - 📫 How to reach me daman0403.be21@chitkara.edu.in
 
