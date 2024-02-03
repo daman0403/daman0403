@@ -26,11 +26,11 @@
 ### :man_technologist: About Me : HEY! I am an software developer <img src=https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif width="30"> from INDIA.
 
 - :telescope: I’m a student learning SMART CONTRACT DEVELOPMENT.
-CONCEPTS.
+
 
 - :seedling: Exploring WEB3 and OTHER TECHNOLOGIES
 
-- :zap: In my free time, I solve problems on LEETCODE and read  articles about new advancement.
+- :zap: I also solve problems on LEETCODE and read  articles about new advancement.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daman-goyal-807795216/)
 
